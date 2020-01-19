@@ -1,0 +1,28 @@
+# Syntax Coloring Map For Silvervest_OLED_0010_SPI
+
+# Datatypes (KEYWORD1)
+Silvervest_OLED_0010_SPI	KEYWORD1	Silvervest_OLED_0010_SPI
+
+# Instances (KEYWORD2)
+begin	KEYWORD2
+clear	KEYWORD2
+home	KEYWORD2
+print	KEYWORD2
+setCursor	KEYWORD2
+cursor	KEYWORD2
+noCursor	KEYWORD2
+blink	KEYWORD2
+noBlink	KEYWORD2
+display	KEYWORD2
+noDisplay	KEYWORD2
+autoscroll	KEYWORD2
+noAutoscroll	KEYWORD2
+leftToRight	KEYWORD2
+rightToLeft	KEYWORD2
+scrollDisplayLeft	KEYWORD2
+scrollDisplayRight	KEYWORD2
+createChar	KEYWORD2
+command KEYWORD2
+write   KEYWORD2
+
+# Constants (LITERAL1)
